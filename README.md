@@ -58,9 +58,11 @@ with clearly separated cells-by-comment, so copy-paste into notebook cells if pr
 Tool support is **not even** across the four languages used here, and that unevenness
 is itself a teaching point, not a bug to route around:
 
-- **NLTK / spaCy** were built English-first. spaCy has no official Malayalam or Tamil
-  pipeline, and only a small Hindi one; NLTK's tokenizers are largely whitespace/
-  punctuation heuristics that don't understand Indic conjuncts well.
+- **NLTK / spaCy** were built English-first. spaCy has no official *trained* pipeline
+  for Malayalam, Hindi, or Tamil — only basic rule-based "language data" (tokenization
+  rules, stopwords) for all three, one tier below its trained English pipeline; NLTK's
+  tokenizers are largely whitespace/punctuation heuristics that don't understand Indic
+  conjuncts well.
 - **Regex-based morphology** (prefix/suffix stripping) works reasonably for Hindi
   (less agglutinative) but breaks down fast on Malayalam and Tamil, where a single
   word can carry a chain of fused suffixes (case, tense, negation, number). Day 4

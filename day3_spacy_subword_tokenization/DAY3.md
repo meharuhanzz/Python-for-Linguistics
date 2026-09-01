@@ -31,7 +31,9 @@ The full pipeline in one call: `nlp(text)` returns a `Doc` with per-token attrib
 
 ## Session 2 — Where spaCy's Language Coverage Ends
 
-spaCy has no official Malayalam or Tamil pipeline and only a small Hindi one. This
+spaCy has no official *trained* pipeline for Malayalam, Hindi, or Tamil — all three
+only get spaCy's basic rule-based "language data" (tokenization rules, stopwords),
+the same tier a `spacy.blank()` pipeline uses. This
 session runs a **blank** spaCy pipeline (rule-based sentence boundaries and
 whitespace tokenization only, with no statistical model) on Malayalam/Hindi/Tamil
 sample sentences to show precisely what you still get "for free" (basic

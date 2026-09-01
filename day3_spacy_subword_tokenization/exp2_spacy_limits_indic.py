@@ -4,8 +4,9 @@ pipeline for the language.
 
 Concepts: blank pipelines, rule-based sentence/word segmentation, why POS/
 lemma/dependency attributes are empty without a trained statistical model.
-Languages: Malayalam, Hindi, Tamil (spaCy has no official Malayalam or Tamil
-pipeline, and only a small Hindi one).
+Languages: Malayalam, Hindi, Tamil (spaCy has no official *trained* pipeline
+for any of the three -- all three get only spaCy's basic rule-based
+"language data", the same tier `spacy.blank()` uses).
 
 See library_notes/03_spacy.md for background before/while working through this.
 

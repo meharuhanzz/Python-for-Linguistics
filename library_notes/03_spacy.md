@@ -17,11 +17,13 @@ fast, production-oriented, and gives you all of these annotation layers from one
 instead of five separate tools.
 
 The important limitation for this tutorial: spaCy's pipelines are trained per language
-on large annotated treebanks, and that training data barely exists for Malayalam and
-Tamil (no official spaCy pipeline for either) and is thin for Hindi. So spaCy is the
-right tool to *learn the concepts* of POS tagging and dependency parsing on English,
-but not currently a tool you can point at Malayalam or Tamil and expect the same
-quality — Day 3 demonstrates this gap directly rather than glossing over it.
+on large annotated treebanks, and no such trained pipeline currently exists for
+Malayalam, Hindi, or Tamil — all three get only spaCy's basic rule-based "language
+data" (tokenization rules, stopwords), not a statistical or neural model. So spaCy is
+the right tool to *learn the concepts* of POS tagging and dependency parsing on
+English, but not currently a tool you can point at any of these three languages and
+expect the same quality — Day 3 demonstrates this gap directly rather than glossing
+over it.
 
 ## Basic usage
 
