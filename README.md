@@ -107,5 +107,4 @@ add one:
 
 ## License
 
-Add your preferred license here before publishing (MIT/Apache-2.0 are common choices
-for teaching material).
+[MIT](LICENSE)
