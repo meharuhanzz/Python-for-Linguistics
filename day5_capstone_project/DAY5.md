@@ -2,18 +2,13 @@
 
 ## Schedule
 
-| Time | Block |
-|---|---|
-| 10:00–10:15 | Recap Days 1–4, Day 5 goals |
-| 10:15–11:15 | **Session 1** — Planning a Data Pipeline End to End |
-| 11:15–11:25 | Tea Break |
-| 11:25–12:30 | **Session 2** — Capstone Lab, Part 1: Load, Tokenize, Frequencies |
-| 12:30–1:30 | Lunch Break |
-| 1:30–2:30 | **Session 3** — Capstone Lab, Part 2: Regex, POS/Morphology, Embeddings |
-| 2:30–2:40 | Tea Break |
-| 2:40–3:40 | **Session 4** — Capstone Lab, Part 3: Cross-Lingual Similarity Search |
-| 3:40–4:30 | **Presentations** — each participant/pair walks through their pipeline's output |
-| 4:30–5:00 | **Wrap-up** — research applications, where to go next, Q&A |
+1. Recap Days 1–4, Day 5 goals
+2. Session 1 — Planning a Data Pipeline End to End
+3. Session 2 — Capstone Lab, Part 1: Load, Tokenize, Frequencies
+4. Session 3 — Capstone Lab, Part 2: Regex, POS/Morphology, Embeddings
+5. Session 4 — Capstone Lab, Part 3: Cross-Lingual Similarity Search
+6. Presentations — each participant/pair walks through their pipeline's output
+7. Wrap-up — research applications, where to go next, Q&A
 
 ## Learning objectives
 

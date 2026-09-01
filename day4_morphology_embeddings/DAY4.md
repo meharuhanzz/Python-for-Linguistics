@@ -2,18 +2,13 @@
 
 ## Schedule
 
-| Time | Block |
-|---|---|
-| 10:00–10:15 | Recap Day 3, Day 4 goals |
-| 10:15–11:15 | **Session 1** — Regex-Based Morphology and Where It Breaks |
-| 11:15–11:25 | Tea Break |
-| 11:25–12:30 | **Session 2** — FST-Based Morphological Analysis (`mlmorph`, Malayalam) |
-| 12:30–1:30 | Lunch Break |
-| 1:30–2:30 | **Session 3** — Word2Vec: Static Word Embeddings |
-| 2:30–2:40 | Tea Break |
-| 2:40–3:40 | **Session 4** — Contextual Embeddings and Why They Differ |
-| 3:40–4:40 | **Hands-on Lab** — run and extend `exp1`–`exp4` |
-| 4:40–5:00 | Wrap-up, Q&A, preview Day 5 |
+1. Recap Day 3, Day 4 goals
+2. Session 1 — Regex-Based Morphology and Where It Breaks
+3. Session 2 — FST-Based Morphological Analysis (`mlmorph`, Malayalam)
+4. Session 3 — Word2Vec: Static Word Embeddings
+5. Session 4 — Contextual Embeddings and Why They Differ
+6. Hands-on Lab — run and extend `exp1`–`exp4`
+7. Wrap-up, Q&A, preview Day 5
 
 ## Learning objectives
 

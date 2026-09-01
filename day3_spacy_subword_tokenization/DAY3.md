@@ -2,18 +2,13 @@
 
 ## Schedule
 
-| Time | Block |
-|---|---|
-| 10:00–10:15 | Recap Day 2, Day 3 goals |
-| 10:15–11:15 | **Session 1** — spaCy: Tokens, Lemmas, POS, NER, Dependencies (English) |
-| 11:15–11:25 | Tea Break |
-| 11:25–12:30 | **Session 2** — Where spaCy's Language Coverage Ends (Indic languages) |
-| 12:30–1:30 | Lunch Break |
-| 1:30–2:30 | **Session 3** — Subword Tokenization: BPE / WordPiece / SentencePiece |
-| 2:30–2:40 | Tea Break |
-| 2:40–3:40 | **Session 4** — Comparing Subword Splits Across Four Languages |
-| 3:40–4:40 | **Hands-on Lab** — run and extend `exp1`, `exp2`, `exp3` |
-| 4:40–5:00 | Wrap-up, Q&A, preview Day 4 |
+1. Recap Day 2, Day 3 goals
+2. Session 1 — spaCy: Tokens, Lemmas, POS, NER, Dependencies (English)
+3. Session 2 — Where spaCy's Language Coverage Ends (Indic languages)
+4. Session 3 — Subword Tokenization: BPE / WordPiece / SentencePiece
+5. Session 4 — Comparing Subword Splits Across Four Languages
+6. Hands-on Lab — run and extend `exp1`, `exp2`, `exp3`
+7. Wrap-up, Q&A, preview Day 4
 
 ## Learning objectives
 

@@ -2,18 +2,13 @@
 
 ## Schedule
 
-| Time | Block |
-|---|---|
-| 10:00–10:15 | Welcome, setup check, Day 1 goals |
-| 10:15–11:15 | **Session 1** — Python Basics for Language Data |
-| 11:15–11:25 | Tea Break |
-| 11:25–12:30 | **Session 2** — Unicode & Indic Script Handling |
-| 12:30–1:30 | Lunch Break |
-| 1:30–2:30 | **Session 3** — Reading & Structuring Corpora (file I/O) |
-| 2:30–2:40 | Tea Break |
-| 2:40–3:40 | **Session 4** — Where Corpora Come From, Licensing & Ethics |
-| 3:40–4:40 | **Hands-on Lab** — run and extend `exp1`, `exp2` |
-| 4:40–5:00 | Wrap-up, Q&A, preview Day 2 |
+1. Welcome & Day 1 goals
+2. Session 1 — Python Basics for Language Data
+3. Session 2 — Unicode & Indic Script Handling
+4. Session 3 — Reading & Structuring Corpora (file I/O)
+5. Session 4 — Where Corpora Come From, Licensing & Ethics
+6. Hands-on Lab — run and extend `exp1`, `exp2`
+7. Wrap-up, Q&A, preview Day 2
 
 ## Learning objectives
 

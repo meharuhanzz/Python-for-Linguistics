@@ -2,18 +2,13 @@
 
 ## Schedule
 
-| Time | Block |
-|---|---|
-| 10:00–10:15 | Recap Day 1, Day 2 goals |
-| 10:15–11:15 | **Session 1** — NLTK: Tokenization, Frequency, Concordance |
-| 11:15–11:25 | Tea Break |
-| 11:25–12:30 | **Session 2** — Corpus Analysis with pandas |
-| 12:30–1:30 | Lunch Break |
-| 1:30–2:30 | **Session 3** — Regular Expressions for Linguistic Patterns |
-| 2:30–2:40 | Tea Break |
-| 2:40–3:40 | **Session 4** — Where Whitespace Tokenization Breaks (Indic preview) |
-| 3:40–4:40 | **Hands-on Lab** — run and extend `exp1`, `exp2`, `exp3` |
-| 4:40–5:00 | Wrap-up, Q&A, preview Day 3 |
+1. Recap Day 1, Day 2 goals
+2. Session 1 — NLTK: Tokenization, Frequency, Concordance
+3. Session 2 — Corpus Analysis with pandas
+4. Session 3 — Regular Expressions for Linguistic Patterns
+5. Session 4 — Where Whitespace Tokenization Breaks (Indic preview)
+6. Hands-on Lab — run and extend `exp1`, `exp2`, `exp3`
+7. Wrap-up, Q&A, preview Day 3
 
 ## Learning objectives
 
