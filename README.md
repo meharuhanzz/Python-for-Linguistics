@@ -1,7 +1,7 @@
 # Python for Linguistics — 5-Day Tutorial
 
-**Author / Maintainer:** [meharuhanzz](https://github.com/meharuhanzz) (sole
-contributor and maintainer of this repo)
+**Author / Maintainer:** Meharuniza ([@meharuhanzz](https://github.com/meharuhanzz))
+— sole contributor.
 
 A hands-on, beginner-friendly tutorial for using Python in corpus linguistics,
 morphology, syntax, semantics, annotation, and NLP — with worked examples in
